@@ -1,0 +1,38 @@
+body {
+    background: gray;
+    margin: 0;
+}
+header {
+    background: white;
+    padding: 10px;
+}
+div.post {
+    background: white;
+    margin-top: 10px;
+}
+div.post img {
+    width: 100%;
+}
+div.post h2, div.post p {
+    padding: 5px;
+    margin-top: 0;
+}
+header h1 {
+    margin: 0;
+    text-align: center;
+}
+div.container {
+    margin: auto;
+    width: 600px;
+}
+span {
+    float: right;
+    padding: 5px;
+    color: gray;
+}
+div.post h2, span {
+    display: inline-block;
+}
+* {
+    font-family: "Calibri", serif;
+}  
